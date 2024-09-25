@@ -1,0 +1,9 @@
+File: n5.mp3 is predicted as Non-Phishing with probability 0.66
+File: p1.mp3 is predicted as Phishing with probability 0.99
+File: n4.mp3 is predicted as Non-Phishing with probability 0.60
+File: n3.mp3 is predicted as Non-Phishing with probability 0.96
+File: p4.mp3 is predicted as Non-Phishing with probability 1.00
+File: p3.mp3 is predicted as Phishing with probability 1.00
+File: p5.mp3 is predicted as Phishing with probability 0.98
+File: p2.mp3 is predicted as Phishing with probability 0.92
+File: n2.mp3 is predicted as Non-Phishing with probability 0.98
